@@ -1,4 +1,5 @@
 body{
+<<<<<<< HEAD
     position:relative;
     background-color: rgb(39, 9, 68);
     background-image: url("images/mygif.GIF"),url("images/65e8524813cfb4d9e4a801f80008be8b.jpg");
@@ -24,4 +25,7 @@ a:active{
 }
 a:hover{
     color:blueviolet;
+=======
+    background-image: url("photo-1550745165-9bc0b252726f.webp");
+>>>>>>> a1df725 (First Terminal Commit)
 }
