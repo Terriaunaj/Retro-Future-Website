@@ -1,14 +1,30 @@
 body{
+    background-color: rgb(39, 9, 68);
     background-image: url("65e8524813cfb4d9e4a801f80008be8b.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
     color:aliceblue;
+    
+    font-family: "Sixtyfour", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
 }
 nav{
     text-align: center;
     margin: auto;
-    padding: 10px;
+    padding: 1\0px;
 }
 a{
     padding: 40px;
-    color:aliceblue;
+    color:whitesmoke;
+}
+a:active{
+    color:blueviolet;
+}
+a:hover{
+    color:blueviolet;
 }
