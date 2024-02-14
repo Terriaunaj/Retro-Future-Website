@@ -1,9 +1,6 @@
 body{
-    display:flexbox;
-    margin:auto;
-    padding: 0%;
     background-color: rgb(39, 9, 68);
-    background-image: url("65e8524813cfb4d9e4a801f80008be8b.jpg");
+    background-image: url("mygif.GIF"),url("65e8524813cfb4d9e4a801f80008be8b.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     color:aliceblue;
@@ -16,32 +13,13 @@ body{
     "BLED" 0,
     "SCAN" 0;
 }
-h1{
-    margin:auto;
-}
-
 a{
-    display:block;
-    position: relative;
-    padding: 40%;
     color:whitesmoke;
+    padding: 2%;
 }
 a:active{
     color:blueviolet;
 }
 a:hover{
     color:blueviolet;
-}
-.container{
-    z-index:1;
-    display:flex;
-    margin: auto;
-    padding: auto;
-    width:auto;
-    height:auto;
-}
-nav{
-    text-align: center;
-    margin: auto;
-    padding: 5px;
 }
