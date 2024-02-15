@@ -1,8 +1,10 @@
 body{
+    position:relative;
     background-color: rgb(39, 9, 68);
-    background-image: url("mygif.GIF"),url("65e8524813cfb4d9e4a801f80008be8b.jpg");
+    background-image: url("images/mygif.GIF"),url("images/65e8524813cfb4d9e4a801f80008be8b.jpg");
     background-size:cover;
     background-repeat: no-repeat;
+    background-position: fixed;
     color:aliceblue;
     
     font-family: "Sixtyfour", sans-serif;
