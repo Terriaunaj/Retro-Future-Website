@@ -13,7 +13,7 @@ This project was created for the Hacklahoma hackathon, embracing a retro-futuris
 - HTML
 - CSS
 - JavaScript
-- [Any other frameworks or libraries you used, e.g., React, Bootstrap]
+- Bootstrap
 
 ## Installation
 To run this project locally, follow these steps:
